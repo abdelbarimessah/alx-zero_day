@@ -1,2 +1,3 @@
 commit 
+pwd 
 next commit
